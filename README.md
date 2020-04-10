@@ -17,5 +17,7 @@ The **Go Corona** is a mobile app developed by Tachyon TechLabs to provide peopl
 
 ### Go Corona Feature: 
 <ul>
-	<li>Get updates about the worldwide coronavirus situation</li>
+	<li>Get updates about the worldwide coronavirus situation.</li>
+	<li>Upto date statistics about the situation of the virus in India.</li>
+	<li>A reliable passwort system that keeps record of people venturing out of their homes for valid reasons.</li>
 </ul>
