@@ -1,7 +1,7 @@
 # Go Corona GO!
 <h4 align="center">
     <a href="https://github.com/Omkar17dalvi/Example">
-        <img src="https://github.com/Omkar17dalvi/Example/blob/master/gocorona.png" alt="corona-cli" />
+        <img src="https://github.com/Omkar17dalvi/Example/blob/master/images/gocorona.png" alt="corona-cli" />
     </a>
     <br>
     <br>
@@ -21,9 +21,13 @@ The **Go Corona** is a mobile app developed by Tachyon TechLabs to provide peopl
 	<li>Upto date statistics about the situation of the virus in India.</li>
 	<li>A reliable passwort system that keeps record of people venturing out of their homes for valid reasons.</li>
 	<li>Donation Camp System</li>
-	<li>Helpline Informatio</li>
+	<li>Helpline Information</li>
 
 </ul>
 
 <h3>Features in Detail</h3>
 <hr>
+
+<ul>
+	<li>Covid Patient Tracker	<img src="https://github.com/Omkar17dalvi/Example/blob/master/images/tracker.png"></li>
+</ul>>
