@@ -6,7 +6,7 @@
     <br>
     <br>
 
-Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
+
 
 </h4>
 
@@ -30,5 +30,6 @@ The **Go Corona** is a mobile app developed by Tachyon TechLabs to provide peopl
 
 <ul>
 <li>Covid Patient Tracker</li>
+<br>
 <img src="https://github.com/Omkar17dalvi/Example/blob/master/images/tracker.png">
-</ul>>
+</ul>
