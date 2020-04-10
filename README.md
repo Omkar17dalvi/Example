@@ -1,4 +1,14 @@
 # Go Corona GO!
+<h4 align="center">
+    <a href="https://github.com/Omkar17dalvi/Example">
+        <img src="https://github.com/Omkar17dalvi/Example/gocorona.png" alt="corona-cli" />
+    </a>
+    <br>
+    <br>
+
+Track the Coronavirus disease (COVID-19) or the Novel Coronavirus Strain.
+
+</h4>
 
 The world is in the middle of a crisis. Everone is worried and confused about the coronavirus outbreak. The digital space is filled with false alarms, fake news and hoax's. This is where Go Corona app comes in. It provides a smart and innovative solution of delivery crucial information to people.  
 
