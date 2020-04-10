@@ -1,7 +1,7 @@
 # Go Corona GO!
 <h4 align="center">
     <a href="https://github.com/Omkar17dalvi/Example">
-        <img src="https://github.com/Omkar17dalvi/Example/gocorona.png" alt="corona-cli" />
+        <img src="https://github.com/Omkar17dalvi/Example/blob/master/gocorona.png" alt="corona-cli" />
     </a>
     <br>
     <br>
