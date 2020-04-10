@@ -29,5 +29,7 @@ The **Go Corona** is a mobile app developed by Tachyon TechLabs to provide peopl
 <hr>
 
 <ul>
-	<li>Covid Patient Tracker	<img src="https://github.com/Omkar17dalvi/Example/blob/master/images/tracker.png"></li>
+<li>Covid Patient Tracker	
+<img src="https://github.com/Omkar17dalvi/Example/blob/master/images/tracker.png">
+</li>
 </ul>>
